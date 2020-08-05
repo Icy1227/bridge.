@@ -70,6 +70,7 @@
     "client_entity/general",
     
     "client_item/main",
+    "client_item/general",
 
     "render_controller/main",
     "render_controller/general",
